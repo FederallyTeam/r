@@ -5,7 +5,7 @@
 body{
   margin: 0;
   padding: 0;
-  background: linear-gardient(135deg,rgb(74,13,143) 0%, rgba(250,42,143) 100%);
+  background: Gray;
 }
 .nav{
   margin-top: 80px;
