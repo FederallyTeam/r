@@ -5,6 +5,10 @@
 body{
   font-family: Baloo;
 }
+header{
+   background: linear-gardient(135deg,rgb(74,13,143) 0%, rgba(250,42,143) 100%);
+   height: 100vh;
+}
 .banner-text{
   width: 100%;
   position: absolute;
