@@ -2,8 +2,10 @@
   margin: 0;
   padding: 0;
 }
-body{
-  background-color: gray;
+div{
+   background-color: black;
+   color: white;
+   padding: 20px;
 }
 header{
    background: linear-gardient(135deg,rgb(74,13,143) 0%, rgba(250,42,143) 100%);
